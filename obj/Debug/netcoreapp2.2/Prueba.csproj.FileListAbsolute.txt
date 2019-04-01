@@ -1,0 +1,11 @@
+E:\dev\wsDotNet\Prueba\bin\Debug\netcoreapp2.2\Prueba.deps.json
+E:\dev\wsDotNet\Prueba\bin\Debug\netcoreapp2.2\Prueba.runtimeconfig.json
+E:\dev\wsDotNet\Prueba\bin\Debug\netcoreapp2.2\Prueba.runtimeconfig.dev.json
+E:\dev\wsDotNet\Prueba\bin\Debug\netcoreapp2.2\Prueba.dll
+E:\dev\wsDotNet\Prueba\bin\Debug\netcoreapp2.2\Prueba.pdb
+E:\dev\wsDotNet\Prueba\obj\Debug\netcoreapp2.2\Prueba.csprojAssemblyReference.cache
+E:\dev\wsDotNet\Prueba\obj\Debug\netcoreapp2.2\Prueba.csproj.CoreCompileInputs.cache
+E:\dev\wsDotNet\Prueba\obj\Debug\netcoreapp2.2\Prueba.AssemblyInfoInputs.cache
+E:\dev\wsDotNet\Prueba\obj\Debug\netcoreapp2.2\Prueba.AssemblyInfo.cs
+E:\dev\wsDotNet\Prueba\obj\Debug\netcoreapp2.2\Prueba.dll
+E:\dev\wsDotNet\Prueba\obj\Debug\netcoreapp2.2\Prueba.pdb
